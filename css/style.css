@@ -4,9 +4,7 @@
     padding: 0;
 
   }
-  body{
-    margin-top: 45px;
-  }
+
   main{
     display: block;
   }
@@ -47,8 +45,7 @@
   
   section {
     padding: 2rem;
-    height: 630px;
-    text-align: center;
+    height: 530px;
     margin-top: 45px;
   }
   
