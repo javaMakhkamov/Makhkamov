@@ -7,6 +7,9 @@
   body{
     margin-top: 45px;
   }
+  main{
+    display: block;
+  }
   
   header { 
     position: fixed;
@@ -46,6 +49,7 @@
     padding: 2rem;
     height: 630px;
     text-align: center;
+    margin-top: 45px;
   }
   
   section h2 {
